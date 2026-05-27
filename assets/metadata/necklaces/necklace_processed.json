@@ -1,0 +1,18 @@
+{
+    "asset_name": "necklace",
+    "visible_region": {
+        "x": 0,
+        "y": 0,
+        "width": 2028,
+        "height": 2244
+    },
+    "center": {
+        "center_x": 1014,
+        "center_y": 1122
+    },
+    "aspect_ratio": 0.9037,
+    "anchors": {
+        "ornament_top": 336,
+        "ornament_bottom": 2019
+    }
+}
